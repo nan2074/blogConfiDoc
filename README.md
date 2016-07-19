@@ -1,1 +1,1 @@
-# blogConfiDoc
+#博客配合文件
